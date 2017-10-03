@@ -1,0 +1,11 @@
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\bin\Debug\ProductsData.dll.config
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\bin\Debug\ProductsData.dll
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\bin\Debug\ProductsData.pdb
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\bin\Debug\EntityFramework.dll
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\bin\Debug\EntityFramework.xml
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\obj\Debug\ProductsData.csprojResolveAssemblyReference.cache
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\obj\Debug\ProductsData.csproj.CoreCompileInputs.cache
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\obj\Debug\ProductsData.dll
+C:\Users\schandak\Documents\WebApiDemo\ProductsData\obj\Debug\ProductsData.pdb
